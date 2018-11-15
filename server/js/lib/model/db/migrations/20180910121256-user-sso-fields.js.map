@@ -1,0 +1,1 @@
+{"version":3,"file":"20180910121256-user-sso-fields.js","sourceRoot":"","sources":["../../../../../src/lib/model/db/migrations/20180910121256-user-sso-fields.ts"],"names":[],"mappings":";;AAAa,QAAA,EAAE,GAAG,KAAK,WAAU,EAAO;IACtC,OAAO,EAAE,CAAC,MAAM,CACd;;;;;KAKC,CACF,CAAC;AACJ,CAAC,CAAC;AAEW,QAAA,IAAI,GAAG;IAClB,OAAO,IAAI,CAAC;AACd,CAAC,CAAC"}
