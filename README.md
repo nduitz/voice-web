@@ -17,3 +17,23 @@ For general discussion (feedback, ideas, random musings), head to our [Discourse
 For technical problems or suggestions, please use the [GitHub issue tracker](https://github.com/mozilla/voice-web/issues).
 
 Or come chat with us on Slack: [Invite Link](https://common-voice-slack-invite.herokuapp.com/)
+
+
+### Run it locally
+
+1. yarn install
+2. npm install
+3. place a config.json under server/ with db parameters and s3 parameters as described in docs/HOWTO_S3.md
+``` 
+you will need to configure a root password for mysql as well, so migrations can be processed 
+```
+4. npm run build
+5. npm run start:prod
+6. you are now up and running on localhost:9000
+
+If you want to change transcript data you can find them under server data.
+
+Data in your S3 bucket will be stored under a uuid per user(folder) and track (file.mp3) with a belonging .txt file which stores the transcript.
+
+To import your voice-corpus with mozilla-deepspeech you'll need to tar.gz your bucket. After this you can use: https://github.com/mozilla/DeepSpeech/blob/master/bin/import_cv.py
+to import it.
