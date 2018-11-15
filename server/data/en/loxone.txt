@@ -1,0 +1,41 @@
+turn off the bedroom light
+turn on the red bedroom light
+turn off the red bedroom light
+turn on the music
+turn off the music
+switch on the lights
+turn on the basement light
+turn off the basement light
+dim the lights
+dim the lights to ten percent
+dim the lights to twenty percent
+dim the lights to thirty percent
+dim the lights to fourty percent
+dim the lights to fifty percent
+dim the lights to sixty percent
+dim the lights to seventy percent
+dim the lights to eighty percent
+dim the lights to ninety percent
+turn on all the lights in the livingroom
+turn off all the light in the livingroom
+turn on the livingroom lights
+turn of the livingroom lights
+turn on the warm lights
+turn off the warm lights
+set the scene to romantic
+set the scene to cozy
+set the scene to work
+set the scene to rainy day
+turn up the volume
+turn down the volume
+set the volume to ten percent
+call emergency
+can you make it a bit warmer
+turn down the heating
+set the heater to twenty-two degrees celcius
+play the next track
+play the next song
+play the next title
+how's the weather today
+play some jazz music
+play some party music

@@ -34,14 +34,14 @@ const DEFAULTS: CommonVoiceConfig = {
   PROD: false, // Set to true for staging and production.
   SERVER_PORT: 9000,
   DB_ROOT_USER: 'root', // For running schema migrations.
-  DB_ROOT_PASS: '',
+  DB_ROOT_PASS: 'voice',
   MYSQLUSER: 'voicecommons', // For normal DB interactions.
   MYSQLPASS: 'voicecommons',
   MYSQLDBNAME: 'voiceweb',
   MYSQLHOST: 'localhost',
   MYSQLPORT: 3306,
-  BUCKET_NAME: 'common-voice-corpus',
-  BUCKET_LOCATION: '',
+  BUCKET_NAME: 'test-bucket-9e',
+  BUCKET_LOCATION: 'eu-central-1',
   ENVIRONMENT: 'default',
   SECRET: 'TODO: Set a secure SECRET in config.json',
   ADMIN_EMAILS: '[]', // array of admin emails, as JSON
